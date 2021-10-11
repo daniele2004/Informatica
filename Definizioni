@@ -1,0 +1,9 @@
+lista = Una lista è la raccolta di diversi elementi indipendentemente dal tipo di quest'ultimi, contenuti tra parentesi quadre e separati da una virgola
+list comprehension = è la creazione di una lista che segue le condizioni indicate dal programmatore all'interno delle parentesi quadre
+tupla = raccolta di elementi, che, a differenza delle liste, non possono essere modificati, dichiarate tra parentesi tonde ed elementi separati da una virgola
+set = utilizzato per raccogliere elementi in un'unica variabile, i set non hanno un indice e non sono ordinati, sono immutabili come le tuple, dichiarati tra parentesi graffe e elementi separati da una virgola
+dizionario = raccolta di elementi a cui ognuno di essi viene asseganta una "chiave", all'interno dei dizionario non ci possono essere duplicati, dichiarati tra parentesi graffe e ogni coppia d chiave-valore separata da una virgola dall'altra
+funzioni = Insieme di istruzioni che possiamo richiamare utlizzando il nome della funzione e dandogli dei valori in input 
+parametri formali = Vengono utilizzati per la creazione di "moduli" (es. una funzione)
+parametri attuali = Sostituiscono i parametri formali nel momento in cui viene richiamato il "modulo" 
+
